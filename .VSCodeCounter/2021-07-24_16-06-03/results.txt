@@ -1,0 +1,115 @@
+Date : 2021-07-24 16:06:03
+Directory : /Users/wilfredomeneses/Desktop/documents/MBShop
+Total : 70 files,  22285 codes, 190 comments, 541 blanks, all 23016 lines
+
+Languages
++-----------------------+------------+------------+------------+------------+------------+
+| language              | files      | code       | comment    | blank      | total      |
++-----------------------+------------+------------+------------+------------+------------+
+| JSON                  |          7 |     18,801 |          0 |          7 |     18,808 |
+| JavaScript            |         58 |      3,404 |        180 |        493 |      4,077 |
+| Markdown              |          1 |         38 |          0 |         33 |         71 |
+| HTML                  |          1 |         21 |          0 |          2 |         23 |
+| CSS                   |          2 |         14 |         10 |          4 |         28 |
+| Environment Variables |          1 |          7 |          0 |          2 |          9 |
++-----------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                       | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                          |         70 |     22,285 |        190 |        541 |     23,016 |
+| backend                                                                                    |         28 |      2,761 |        158 |        196 |      3,115 |
+| backend/CONFIG                                                                             |          2 |         20 |          0 |          3 |         23 |
+| backend/Middleware                                                                         |          5 |        129 |         31 |         37 |        197 |
+| backend/_data                                                                              |          2 |         96 |          0 |          2 |         98 |
+| backend/controllers                                                                        |          5 |        333 |         89 |         83 |        505 |
+| backend/models                                                                             |          4 |        267 |         15 |         22 |        304 |
+| backend/routes                                                                             |          5 |         83 |          7 |         25 |        115 |
+| backend/utils                                                                              |          1 |          7 |          0 |          1 |          8 |
+| frontend                                                                                   |         42 |     19,524 |         32 |        345 |     19,901 |
+| frontend/public                                                                            |          2 |         46 |          0 |          3 |         49 |
+| frontend/src                                                                               |         37 |      2,500 |         32 |        307 |      2,839 |
+| frontend/src/Constants                                                                     |          4 |         51 |          0 |         13 |         64 |
+| frontend/src/actions                                                                       |          4 |        534 |          0 |         89 |        623 |
+| frontend/src/components                                                                    |          7 |        236 |          1 |         29 |        266 |
+| frontend/src/reducers                                                                      |          4 |        278 |          2 |         22 |        302 |
+| frontend/src/screens                                                                       |         11 |      1,171 |         16 |        130 |      1,317 |
++--------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------+-----------------------+------------+------------+------------+------------+
+| filename                                                                                   | language              | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------+-----------------------+------------+------------+------------+------------+
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/CONFIG/config.env                  | Environment Variables |          7 |          0 |          2 |          9 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/CONFIG/db.js                       | JavaScript            |         13 |          0 |          1 |         14 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/Middleware/advancedResults.js      | JavaScript            |         52 |         17 |         16 |         85 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/Middleware/async.js                | JavaScript            |          5 |          0 |          1 |          6 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/Middleware/auth.js                 | JavaScript            |         38 |         10 |         10 |         58 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/Middleware/error.js                | JavaScript            |         29 |          3 |          9 |         41 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/Middleware/logger.js               | JavaScript            |          5 |          1 |          1 |          7 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/_data/products.json                | JSON                  |         80 |          0 |          1 |         81 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/_data/users.json                   | JSON                  |         16 |          0 |          1 |         17 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/controllers/auth.js                | JavaScript            |         76 |         23 |         27 |        126 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/controllers/orders.js              | JavaScript            |         54 |         12 |         13 |         79 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/controllers/products.js            | JavaScript            |         62 |         19 |         14 |         95 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/controllers/reviews.js             | JavaScript            |         93 |         19 |         16 |        128 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/controllers/users.js               | JavaScript            |         48 |         16 |         13 |         77 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/models/Order.js                    | JavaScript            |        130 |          7 |         12 |        149 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/models/Products.js                 | JavaScript            |         53 |          0 |          2 |         55 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/models/Review.js                   | JavaScript            |         34 |          0 |          2 |         36 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/models/User.js                     | JavaScript            |         50 |          8 |          6 |         64 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/package-lock.json                  | JSON                  |      1,715 |          0 |          1 |      1,716 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/package.json                       | JSON                  |         25 |          0 |          1 |         26 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/routes/auth.js                     | JavaScript            |         10 |          1 |          3 |         14 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/routes/order.js                    | JavaScript            |         22 |          1 |          4 |         27 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/routes/products.js                 | JavaScript            |         24 |          3 |          8 |         35 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/routes/reviews.js                  | JavaScript            |         10 |          1 |          6 |         17 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/routes/users.js                    | JavaScript            |         17 |          1 |          4 |         22 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/seeder.js                          | JavaScript            |         46 |          6 |          8 |         60 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/server.js                          | JavaScript            |         40 |         10 |         13 |         63 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/backend/utils/errorResponse.js             | JavaScript            |          7 |          0 |          1 |          8 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/README.md                         | Markdown              |         38 |          0 |         33 |         71 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/package-lock.json                 | JSON                  |     16,891 |          0 |          1 |     16,892 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/package.json                      | JSON                  |         49 |          0 |          1 |         50 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/public/index.html                 | HTML                  |         21 |          0 |          2 |         23 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/public/manifest.json              | JSON                  |         25 |          0 |          1 |         26 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/App.js                        | JavaScript            |         40 |          0 |          3 |         43 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/Constants/cartConstants.js    | JavaScript            |          5 |          0 |          1 |          6 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/Constants/orderConstants.js   | JavaScript            |         15 |          0 |          4 |         19 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/Constants/productConstants.js | JavaScript            |          6 |          0 |          1 |          7 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/Constants/userConstants.js    | JavaScript            |         25 |          0 |          7 |         32 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/actions/cartActions.js        | JavaScript            |         24 |          0 |          6 |         30 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/actions/orderActions.js       | JavaScript            |        143 |          0 |         23 |        166 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/actions/productActions.js     | JavaScript            |         39 |          0 |          5 |         44 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/actions/userActions.js        | JavaScript            |        328 |          0 |         55 |        383 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/bootstrap.min.css             | CSS                   |          2 |         10 |          0 |         12 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/components/CheckoutSteps.js   | JavaScript            |         46 |          0 |          3 |         49 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/components/Footer.js          | JavaScript            |         16 |          0 |          3 |         19 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/components/Header.js          | JavaScript            |         64 |          1 |          6 |         71 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/components/Loader.js          | JavaScript            |         10 |          0 |          3 |         13 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/components/Message.js         | JavaScript            |          9 |          0 |          3 |         12 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/components/Product.js         | JavaScript            |         28 |          0 |          3 |         31 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/components/Rating.js          | JavaScript            |         63 |          0 |          8 |         71 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/index.css                     | CSS                   |         12 |          0 |          4 |         16 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/index.js                      | JavaScript            |         15 |          3 |          3 |         21 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/products.js                   | JavaScript            |         81 |          0 |          1 |         82 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/reducers/cartReducer.js       | JavaScript            |         51 |          0 |          4 |         55 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/reducers/orderReducer.js      | JavaScript            |         74 |          0 |          5 |         79 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/reducers/productReducer.js    | JavaScript            |         32 |          2 |          5 |         39 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/reducers/userReducer.js       | JavaScript            |        121 |          0 |          8 |        129 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/reportWebVitals.js            | JavaScript            |         12 |          0 |          2 |         14 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/screens/CartScreen.js         | JavaScript            |        104 |          0 |         10 |        114 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/screens/HomeScreen.js         | JavaScript            |         29 |          1 |          7 |         37 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/screens/LoginScreen.js        | JavaScript            |         58 |          1 |         11 |         70 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/screens/OrderScreen.js        | JavaScript            |        179 |          1 |         15 |        195 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/screens/PaymentScreen.js      | JavaScript            |         53 |          8 |          9 |         70 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/screens/PlaceOrderScreen.js   | JavaScript            |        148 |          1 |         12 |        161 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/screens/ProductScreen.js      | JavaScript            |        113 |          0 |         10 |        123 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/screens/ProfileScreen.js      | JavaScript            |        207 |          2 |         20 |        229 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/screens/ShippingScreen.js     | JavaScript            |         80 |          1 |         12 |         93 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/screens/UserEditScreen.js     | JavaScript            |        106 |          1 |         14 |        121 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/screens/UserListScreen.js     | JavaScript            |         94 |          0 |         10 |        104 |
+| /Users/wilfredomeneses/Desktop/documents/MBShop/frontend/src/store.js                      | JavaScript            |         68 |          0 |         11 |         79 |
+| Total                                                                                      |                       |     22,285 |        190 |        541 |     23,016 |
++--------------------------------------------------------------------------------------------+-----------------------+------------+------------+------------+------------+
